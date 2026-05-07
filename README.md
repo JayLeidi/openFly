@@ -4,13 +4,14 @@ github/chatgpt网络加速
 ## 机场准备（这里以一家机场为例子）
 1. 拷贝url
 <img width="949" height="613" alt="image" src="https://github.com/user-attachments/assets/a4a1fd4d-00f4-410c-b2b6-3c86ab4c4e7d" />
-* 后面将会用到
+2. 后面将会用到
+## 机场目录
 * 机场目录：https://github.com/lynkco01/jichangtuijian
 * 找到一个适合自己的就行没必要找多个
 ## V2rayN下载
-* 发布页🔗：https://github.com/2dust/v2rayN/releases
-* 方框内是windows平台下载可直接使用
-* <img width="1133" height="785" alt="image" src="https://github.com/user-attachments/assets/185b470c-0988-4c2e-ae18-f80ebdc5c956" />
+1. 发布页🔗：https://github.com/2dust/v2rayN/releases
+2. 方框内是windows平台下载可直接使用
+<img width="1133" height="785" alt="image" src="https://github.com/user-attachments/assets/185b470c-0988-4c2e-ae18-f80ebdc5c956" />
 
 # V2rayN使用方法
 ## 启动后设置
